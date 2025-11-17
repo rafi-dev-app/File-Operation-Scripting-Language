@@ -1,1 +1,2 @@
-# File-Operation-Scripting-Language
+FOS-Lang (File Operation Scripting Language) is a mini educational programming language designed to demonstrate essential file operations such as create, write, append, read, and delete. It is ideal for Compiler Design laboratory courses, particularly those using Flex, Bison, and a C backend. 
+The purpose of FOS-Lang is to help students understand lexical analysis, syntax parsing, semantic analysis, and interpreter/runtime development within a small but practical language environment.
